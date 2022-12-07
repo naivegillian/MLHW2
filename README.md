@@ -15,7 +15,7 @@ split data into training/validating and testing
 row 48 to 113:
 split training/validating into 3 folds, 
 cross validation{
-  compute prior, likelihood and posterior with training set
+  compute prior, likelihood and posterior with training set, 
   print performance on validation set}
   
 row 115 to 161:
