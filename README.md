@@ -8,18 +8,18 @@ Each py file contains several parts, please open them with IDE and run the codes
 ML2Naive.py
 
 row 1 to 46:
-import package and data
-preprocess
+import package and data, 
+preprocess, 
 split data into training/validating and testing
 
 row 48 to 113:
-split training/validating into 3 folds
-cross validation 
+split training/validating into 3 folds, 
+cross validation{
   compute prior, likelihood and posterior with training set
-  print performance on validation set
+  print performance on validation set}
   
 row 115 to 161:
-compute prior, likelihood and posterior with training set
+compute prior, likelihood and posterior with training set, 
 print performance on testing set
 
 ------
