@@ -26,7 +26,7 @@ print performance on testing set
 ML2Tree.py
 
 row 1 to 30:
-import package and data
+import package and data, 
 preprocessing: transform categories/boolean in numbers
 
 row 32 to 52:
@@ -57,13 +57,13 @@ row 312 to 341:
 cross-validation of self made random forest, with output a classifier
 
 row 344 to 357:
-cross-validation performance assessment of public package classifiers
+cross-validation performance assessment of public package classifiers, 
 please go to row 265 to 302 to make model=model to be tested
 
 row 359 to 403:
 try public packages, train with training set and test with testing set
 
 row 405 to 450:
-an algorithm to generate k fold cv classifier
-test it
+an algorithm to generate k fold cv classifier, 
+test it, 
 please go to row 265 to 302 to make model=model to be tested
